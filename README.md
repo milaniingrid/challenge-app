@@ -1,6 +1,1 @@
-# Divisão de conta entre amigos durante viagem
-
-
-
-
-
+# Calculo de despesas durante viagem
